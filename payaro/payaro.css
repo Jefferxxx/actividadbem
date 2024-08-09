@@ -31,7 +31,7 @@
     font-family: "Roboto", sans-serif;
     background-color: var(--jum);
 }
-/* ---------------------------------------------- */
+/*corte*/
 .contenedor--modificacion1:hover{
     background-color: var(--jum);
     color: var(--clarette);
@@ -45,7 +45,7 @@
     position: absolute;
     right: 10px; 
 }
-/* ---------------------------------------------- */
+/* corte */
 .acordion__texto--modificacion2::before{
     content: '▼';
     font-size: 20px;
@@ -59,7 +59,7 @@
     transition: all 0.2s;
     font-size: 25px;
 }
-/* ---------------------------------------------- */
+/* corte */
 .acordion__texto--modificacion3::before{
     content: '▼';
     font-size: 20px;
@@ -71,7 +71,7 @@
     text-align: center;
     font-weight: bold;
 }
-/* ---------------------------------------------- */
+/*corte */
 .contenedor--modificacion4:hover{
     background-color: var(--menos);
     transition: all 0.5s;

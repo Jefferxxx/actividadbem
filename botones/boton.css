@@ -12,7 +12,7 @@
   font-family: "Inter", sans-serif;
   font-size: 15px;  
 }
-/* ---------------------------------------------- */
+/* corte */
 .botones--modificacion1{
   background-color: var(--blanco);
   border: solid 1px var(--amarillo);
@@ -24,7 +24,7 @@
   font-size: 20px;
   border: solid 1px var(--blanco);
 }
-/* ---------------------------------------------- */
+/* corte */
 .grupo__botones--modificacion2{
   margin: 30px auto;
 }
@@ -43,7 +43,7 @@
   font-size: 20px;
   box-shadow: 0 4px 8px var(--negro);
 }
-/* ---------------------------------------------- */
+/* corte */
 .grupo__botones--modificacion3{
   width: 500px;
   height: 70px;
@@ -68,7 +68,7 @@
   border: solid 2px var(--nose);
   box-shadow: 0 0 15px var(--negro);
 }
-/* ---------------------------------------------- */
+/* corte */
 .grupo__botones--modificacion4{
   width: 600px;
   height: 80px;
